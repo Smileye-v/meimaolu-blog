@@ -105,18 +105,18 @@ navbar:
   # Navigation menu items
   menu:
     Home: /
-    Archives: /archives
-    Categories: /categories
-    Tags: /tags
-    Books: /books #This is your books page
-    Movies: /movies #This is your movies page
-    Hobby: /hobby #This is your hobby page
-    About: /about
+    Archives: /archives/
+    Categories: /categories/
+    Tags: /tags/
+    Books: /books/ #This is your books page
+    Movies: /movies/ #This is your movies page
+    Hobby: /hobby/ #This is your hobby page
+    About: /about/
   # Links to be shown on the right of the navigation bar
   links:
     Download on GitHub:
       icon: fab fa-github
-      url: https://github.com/Smileye-v
+      url: https://github.com/Smileye-v/meimaolu-blog
 # Page footer configurations
 footer:
   # Copyright text
@@ -131,7 +131,7 @@ footer:
       url: https://creativecommons.org/licenses/by/4.0/
     Download on GitHub:
       icon: fab fa-github
-      url: https://github.com/Smileye-v
+      url: https://github.com/Smileye-v/meimaolu-blog
 # Article related configurations
 article:
   # Code highlight settings

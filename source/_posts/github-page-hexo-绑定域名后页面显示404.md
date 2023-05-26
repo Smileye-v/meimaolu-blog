@@ -15,4 +15,5 @@ github page + hexo 搭建个人博客，绑定域名后正常访问。等在添�
 
 ### 解决方法
 
-在 GitHub 项目中的 Settings->Pages 下的 Custom domain 重新填入自定义域名，重新生成 CNAME 文件后，网站恢复正常访问
+在 GitHub 项目中的 Settings->Pages 下的 Custom domain 重新填入自定义域名，重新生成 CNAME 文件后，网站恢复正常访问。
+为了防止下次打包出现同样问题，在打包后分支下找到 CNAME 文件，下载放到 public 文件夹里，注意文件格式不是 txt

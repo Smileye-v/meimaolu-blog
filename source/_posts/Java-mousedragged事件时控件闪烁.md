@@ -9,7 +9,7 @@ date: 2020-05-18
 
 <!--more-->
 
-<img src="https://img-blog.csdnimg.cn/20200518145708958.png" align="left">
+<img src="/img/post/2020-05-18-01.png" align="left">
 <div style="clear: both;"></div>
 输出了位置数值查看发现位置会往左上角**“瞬移”**。
 

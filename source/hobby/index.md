@@ -9,17 +9,17 @@ tags:
 
 <div class="justified-gallery">
 
-![](/img/stone-plastic-clay/1.jpg)
-![](/img/stone-plastic-clay/2.jpg)
-![](/img/stone-plastic-clay/3.jpg)
-![](/img/stone-plastic-clay/4.jpg)
-![](/img/stone-plastic-clay/5.jpg)
-![](/img/stone-plastic-clay/6.jpg)
-![](/img/stone-plastic-clay/7.jpg)
-![](/img/stone-plastic-clay/8.jpg)
-![](/img/stone-plastic-clay/9.jpg)
-![](/img/stone-plastic-clay/10.jpg)
-![](/img/stone-plastic-clay/11.jpg)
+![](https://ydw6tr-blog.oss.laf.run/stone-plastic-clay/1.jpg)
+![](https://ydw6tr-blog.oss.laf.run/stone-plastic-clay/2.jpg)
+![](https://ydw6tr-blog.oss.laf.run/stone-plastic-clay/3.jpg)
+![](https://ydw6tr-blog.oss.laf.run/stone-plastic-clay/4.jpg)
+![](https://ydw6tr-blog.oss.laf.run/stone-plastic-clay/5.jpg)
+![](https://ydw6tr-blog.oss.laf.run/stone-plastic-clay/6.jpg)
+![](https://ydw6tr-blog.oss.laf.run/stone-plastic-clay/7.jpg)
+![](https://ydw6tr-blog.oss.laf.run/stone-plastic-clay/8.jpg)
+![](https://ydw6tr-blog.oss.laf.run/stone-plastic-clay/9.jpg)
+![](https://ydw6tr-blog.oss.laf.run/stone-plastic-clay/10.jpg)
+![](https://ydw6tr-blog.oss.laf.run/stone-plastic-clay/11.jpg)
 
 </div>
 
@@ -27,11 +27,11 @@ tags:
 
 <div class="justified-gallery">
 
-![](/img/hand-painted/1.jpg)
-![](/img/hand-painted/2.jpg)
-![](/img/hand-painted/3.jpg)
-![](/img/hand-painted/4.jpg)
-![](/img/hand-painted/5.jpg)
+![](https://ydw6tr-blog.oss.laf.run/hand-painted/1.jpg)
+![](https://ydw6tr-blog.oss.laf.run/hand-painted/2.jpg)
+![](https://ydw6tr-blog.oss.laf.run/hand-painted/3.jpg)
+![](https://ydw6tr-blog.oss.laf.run/hand-painted/4.jpg)
+![](https://ydw6tr-blog.oss.laf.run/hand-painted/5.jpg)
 
 </div>
 
@@ -39,9 +39,9 @@ tags:
 
 <div class="justified-gallery">
 
-![](/img/pixel-art/1.jpg)
-![](/img/pixel-art/2.jpg)
-![](/img/pixel-art/3.jpg)
-![](/img/pixel-art/4.jpg)
+![](https://ydw6tr-blog.oss.laf.run/pixel-art/1.jpg)
+![](https://ydw6tr-blog.oss.laf.run/pixel-art/2.jpg)
+![](https://ydw6tr-blog.oss.laf.run/pixel-art/3.jpg)
+![](https://ydw6tr-blog.oss.laf.run/pixel-art/4.jpg)
 
 </div>

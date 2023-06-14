@@ -9,10 +9,10 @@ date: 2020-05-23
 
 <!--more-->
 
-<img src="/img/post/2020-05-23-01.png" align="left">
+<img src="https://ydw6tr-blog.oss.laf.run/post/2020-05-23-01.png" align="left">
 <div style="clear: both;"></div>
 
-<img src="/img/post/2020-05-23-02.png" align="left">
+<img src="https://ydw6tr-blog.oss.laf.run/post/2020-05-23-02.png" align="left">
 <div style="clear: both;"></div>
 
 # 解决方法：
